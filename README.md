@@ -1,6 +1,7 @@
+![skyblock-four-sticks](/skyblock-four-sticks.png)
+
 # skyblock-four-sticks
 4-Player SkyBlock.
-![skyblock-four-sticks](/skyblock-four-sticks.png)
 
 ## Installation
 1. Download the [zip file](https://github.com/kirbycope/skyblock-four-sticks/archive/refs/heads/main.zip)
